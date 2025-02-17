@@ -1,5 +1,5 @@
 ## 💫 About Me:
-## 👋 Hey there! I'm Syed<br><br>**💻 Tech Enthusiast | Aspiring AI Engineer | Cybersecurity Explorer**  <br>🎓 *Currently pursuing B.E in CSE-AIML and B.S in Data Science*  <br>🚀 *Building projects in AI, Cybersecurity, and more at* **Quantum Sec Ops AI**  <br>📚 *Learning and sharing knowledge while enjoying a good anime binge* 🎌  <br>🌐 *Passionate about innovation, solving real-world problems, and shaping the future*<br><br>Let's collaborate and create something amazing! ✨<br>
+## 👋 Hey there! I'm Syed<br><br>**💻 Tech Enthusiast | Aspiring AI Engineer | Cybersecurity Explorer**  <br>🎓 *Currently pursuing B.E in CSE-AIML and B.S in Data Science*  <br>🚀 *Building projects in AI, Cybersecurity, and more at* **S Yuverse**  <br>📚 *Learning and sharing knowledge while enjoying a good anime binge* 🎌  <br>🌐 *Passionate about innovation, solving real-world problems, and shaping the future*<br><br>Let's collaborate and create something amazing! ✨<br>
 
 
 ## 🌐 Socials:
